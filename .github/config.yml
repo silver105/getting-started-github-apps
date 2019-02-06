@@ -4,7 +4,7 @@
 # Can be either a string :
 requestInfoReplyComment: >
   We would appreciate it if you could provide us with more info about this issue/pr!
-
+ Change the default YAML file message for request app
 # Or an array:
 # requestInfoReplyComment:
 #  - Ah no! young blade! That was a trifle short!
